@@ -1,4 +1,4 @@
-# Chicken Koshs Receipe
+# Chicken Kosha Receipe
 
 Ingridients We Need To Cook Chicken Kosha:-
 
