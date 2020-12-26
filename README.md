@@ -1,11 +1,11 @@
 # Chicken Kosha Receipe
 
-Ingridients We Need To Cook Chicken Kosha:-
+"Ingridients We Need To Cook Chicken Kosha:-
 
-    1)1 kg- Chicken (Medium Sized Pieces, With Bone),
-    2)4- Potato Medium Sized,
-    3)3/4 tsp- Garlic Paste,
-    4)6-7- Garlic Cloves (Peel And Keep The Cloves Whole),
+- 1 kg- Chicken (Medium Sized Pieces, With Bone),
+- 4- Potato Medium Sized,
+- 3/4 tsp- Garlic Paste,
+- 6-7- Garlic Cloves (Peel And Keep The Cloves Whole),
     5)4- Onion (Thinly Sliced),
     6)1- Tomato (Roughly Chopped),
     7)1- Bay Leaf,
