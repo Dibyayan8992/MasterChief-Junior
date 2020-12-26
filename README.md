@@ -2,27 +2,27 @@
 
 "Ingridients We Need To Cook Chicken Kosha:-
 
-- 1 kg- Chicken (Medium Sized Pieces, With Bone),
-- 4- Potato Medium Sized,
-- 3/4 tsp- Garlic Paste,
-- 6-7- Garlic Cloves (Peel And Keep The Cloves Whole),
-- 4- Onion (Thinly Sliced),
-- 1- Tomato (Roughly Chopped),
-- 1- Bay Leaf,
-- 1-2- Whole Dry Red Chilli,
-- 3/4 tsp- Black Peppercorn Powder,
-- Salt To Taste,
-- 1/2 tsp- Sugar,
-- Mustard Oil,
-- 6-7- Green Chillies (Adjust As Per Your Tolerance),
-- 1 tsp- Kashmiri Mirch Powder,
-- 1/2 tsp- Turmeric Powder,
-- 1/4 tsp- Garam Masala Powder,
-- 1 tsp- Ginger Paste,
-- 1 tsp- Cumin Powder,
-- 1 tsp- Coriander Powder,
-- 4-5- Green Cardamoms (Roughly Crushed),
-- 1/2 tsp- Lemon Juice.
+    - 1 kg- Chicken (Medium Sized Pieces, With Bone),
+    - 4- Potato Medium Sized,
+    - 3/4 tsp- Garlic Paste,
+    - 6-7- Garlic Cloves (Peel And Keep The Cloves Whole),
+    - 4- Onion (Thinly Sliced),
+    - 1- Tomato (Roughly Chopped),
+    - 1- Bay Leaf,
+    - 1-2- Whole Dry Red Chilli,
+    - 3/4 tsp- Black Peppercorn Powder,
+    - Salt To Taste,
+    - 1/2 tsp- Sugar,
+    - Mustard Oil,
+    - 6-7- Green Chillies (Adjust As Per Your Tolerance),
+    - 1 tsp- Kashmiri Mirch Powder,
+    - 1/2 tsp- Turmeric Powder,
+    - 1/4 tsp- Garam Masala Powder,
+    - 1 tsp- Ginger Paste,
+    - 1 tsp- Cumin Powder,
+    - 1 tsp- Coriander Powder,
+    - 4-5- Green Cardamoms (Roughly Crushed),
+    - 1/2 tsp- Lemon Juice.
     
 For Marination The Chicken We Need:-
 
