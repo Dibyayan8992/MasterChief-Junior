@@ -1,4 +1,4 @@
-# MasterChief-Junior
+# Chicken Koshs Receipe
 
 Ingridients We Need To Cook Chicken Kosha:-
 
