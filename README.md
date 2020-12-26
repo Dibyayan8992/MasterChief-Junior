@@ -33,11 +33,11 @@ Ingridients We Need To Cook Chicken Kosha:-
     5)Salt,
     6)Wash chicken pieces, keep them in a plastic colander. This straining process removes the excess water from chicken.
     
-    Cooking The Chicken:-
+ Cooking The Chicken:-
 
     1)Peel the potatoes. Cut them horizontally into equal halves, wash and keep aside.
 
-    2)Heat 4 tbsp oil in a deep frying pan/kadai. Add half amount of thinly sliced onions with a pinch of salt (adding a pinch of salt speeds up the browning process). Using a spatula, fry the onions continuously over medium heat. Add the whole garlic cloves in between. Mix and keep frying until all the onion slices have reached a dark, rich brown colour. Remove from the pan and keep aside to cool. 
+    2)Heat 4 tbsp oil in a deep frying pan/kadai. Add half amount of thinly sliced onions with a pinch of salt (adding a pinch of salt speeds up the browning process). Using a        spatula, fry the onions continuously over medium heat. Add the whole garlic cloves in between. Mix and keep frying until all the onion slices have reached a dark, rich          brown colour. Remove from the pan and keep aside to cool. 
 
     3)In a large bowl marinate the chicken pieces with fried onion-garlic, kashmiri mirch powder, lemon juice, and garam masala powder. Keep aside for 1 hour.
 
