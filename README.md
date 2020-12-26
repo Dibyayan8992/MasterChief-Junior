@@ -26,12 +26,12 @@
     
 For Marination The Chicken We Need:-
 
-    1)Chicken,
-    2)Musturd Oil,
-    3)Curd,
-    4)Turmeric Powder,
-    5)Salt,
-    6)Wash chicken pieces, keep them in a plastic colander. This straining process removes the excess water from chicken.
+- Chicken,
+- Musturd Oil,
+- Curd,
+- Turmeric Powder,
+- Salt,
+- Wash chicken pieces, keep them in a plastic colander. This straining process removes the excess water from chicken.
     
 Cooking The Chicken:-
 
